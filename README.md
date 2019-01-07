@@ -2,7 +2,7 @@
 
 [Baskerville 1](https://annaletman123.github.io/john_baskerville/baskerville1.html)
 
-[Baskerville 2](https://annaletman123.github.io/john_baskerville/baskerville2.html)
+[Baskerville 2](https://annaletman123.github.io/john_baskerville/baskerville2list.html)
 
 
 [Baskerville 3](https://annaletman123.github.io/john_baskerville/baskerville3table.html)
