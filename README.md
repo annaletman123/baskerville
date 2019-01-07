@@ -1,4 +1,4 @@
-# john_baskerville
+# John Baskerville
 
 [Baskerville 1](https://annaletman123.github.io/john_baskerville/baskerville1.html)
 
